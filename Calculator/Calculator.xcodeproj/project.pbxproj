@@ -14,6 +14,7 @@
 		F9DD76792937E4CF002E9AB2 /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9DD76782937E4CF002E9AB2 /* CalculatorTests.swift */; };
 		F9DD76832937E4CF002E9AB2 /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9DD76822937E4CF002E9AB2 /* CalculatorUITests.swift */; };
 		F9DD76852937E4CF002E9AB2 /* CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9DD76842937E4CF002E9AB2 /* CalculatorUITestsLaunchTests.swift */; };
+		F9DD76922937FA64002E9AB2 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9DD76912937FA64002E9AB2 /* Button.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F9DD767E2937E4CF002E9AB2 /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9DD76822937E4CF002E9AB2 /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		F9DD76842937E4CF002E9AB2 /* CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F9DD76912937FA64002E9AB2 /* Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F9DD76692937E4CD002E9AB2 /* ContentView.swift */,
 				F9DD766B2937E4CE002E9AB2 /* Assets.xcassets */,
 				F9DD766D2937E4CE002E9AB2 /* Preview Content */,
+				F9DD76912937FA64002E9AB2 /* Button.swift */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				F9DD766A2937E4CD002E9AB2 /* ContentView.swift in Sources */,
 				F9DD76682937E4CD002E9AB2 /* CalculatorApp.swift in Sources */,
+				F9DD76922937FA64002E9AB2 /* Button.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
